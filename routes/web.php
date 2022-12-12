@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\QnaCtrl;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,3 +19,4 @@ use Illuminate\Support\Facades\Route;
 });*/
 
 Route::get('/', [QnaCtrl::class, 'index']);
+Route::post('/strdata', [QnaCtrl::class, 'updata'])->name('strvaldata');
