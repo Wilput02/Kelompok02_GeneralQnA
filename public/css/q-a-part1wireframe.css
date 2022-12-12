@@ -216,3 +216,9 @@
     flex-direction: column;
     justify-content: center;
   }
+
+  .q-a-part1wireframe-image {
+    width: auto;
+    align-self: center;
+    object-fit: cover;
+  }
