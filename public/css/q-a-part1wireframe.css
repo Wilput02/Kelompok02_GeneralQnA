@@ -404,3 +404,17 @@
   align-items: flex-start;
   padding-bottom: 100px;
 }
+
+.q-a-part1wireframe-container20 {
+    flex: 0 0 auto;
+    width: 100%;
+    display: none;
+    align-self: center;
+    margin-top: 100px;
+    align-items: center;
+    padding-left: 220px;
+    padding-right: 220px;
+    flex-direction: column;
+    padding-bottom: 50px;
+    justify-content: center;
+  }
