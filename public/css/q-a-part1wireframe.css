@@ -136,3 +136,16 @@
   align-items: flex-start;
   flex-direction: column;
 }
+
+.q-a-part1wireframe-container07 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding-top: var(--dl-space-space-sixunits);
+    padding-left: 110px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+  }
