@@ -206,6 +206,7 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  margin-top: 5%;
 }
 
 .q-a-part1wireframe-container11 {
@@ -496,6 +497,7 @@
   border-radius: 20px;
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: flex-start;
+  margin-top: 2%;
 }
 
 .q-a-part1wireframe-container26 {
