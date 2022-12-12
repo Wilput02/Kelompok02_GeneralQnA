@@ -301,3 +301,12 @@
   align-items: center;
   justify-content: center;
 }
+
+.q-a-part1wireframe-container17 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 1.5%
+  }
