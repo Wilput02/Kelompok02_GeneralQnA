@@ -67,5 +67,12 @@
           <div class="q-a-part1wireframe-container02" data-aos="zoom-in" data-aos-delay="200">
             <span class="q-a-part1wireframe-text02"><span>Q&amp;A</span></span>
           </div>
+          <div class="q-a-part1wireframe-container03" data-aos="zoom-out" data-aos-delay="300">
+            <img
+              alt="uilcommentquestion1172"
+              src="./playground_assets/uilcommentquestion1172-568v.svg"
+              class="q-a-part1wireframe-uilcommentquestion"
+            />
+          </div>
 </body>
 </html>
