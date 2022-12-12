@@ -14,4 +14,16 @@ class QnaCtrl extends Controller
             'active' => 'QNA'
         ]);
     }
+
+    public function updata(Request $request)
+    {
+        $validatedt = $request->validate([
+            'context' => 'required|min:5|',
+            'question' => 'required|min:5|',
+        ]);
+
+        if ($validatedt) {
+            return response()->json(['question' => $validatedt['question'], 'context' => $validatedt['context']]);
+        }
+    }
 }
