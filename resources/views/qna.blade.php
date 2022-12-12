@@ -121,5 +121,13 @@
                         <span>Context</span>
                       </span>
                     </div>
+                    <div class="q-a-part1wireframe-container15">
+                      <textarea
+                        placeholder="Enter your context"
+                        name = "context"
+                        id = "contextqina"
+                        class="q-a-part1wireframe-textarea input-context"
+                      ></textarea>
+                    </div>
 </body>
 </html>
