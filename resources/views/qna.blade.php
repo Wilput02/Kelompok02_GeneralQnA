@@ -64,5 +64,8 @@
           <div class="q-a-part1wireframe-container01" data-aos="zoom-in" data-aos-delay="200">
             <span class="q-a-part1wireframe-text"><span>Home</span></span>
           </div>
+          <div class="q-a-part1wireframe-container02" data-aos="zoom-in" data-aos-delay="200">
+            <span class="q-a-part1wireframe-text02"><span>Q&amp;A</span></span>
+          </div>
 </body>
 </html>
