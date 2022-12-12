@@ -584,3 +584,8 @@
     width: 80px;
     height: 80px;
   }
+
+  .invalid-input {
+    border-color: #dc3545;
+    border-width: 2px;
+  }
