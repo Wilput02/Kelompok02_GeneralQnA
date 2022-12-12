@@ -344,3 +344,21 @@
   align-self: center;
   justify-content: flex-end;
 }
+
+.q-a-part1wireframe-textinput {
+    color: #292929;
+    width: 850px;
+    height: 85px;
+    font-size: 20px;
+    align-self: flex-end;
+    transition: 0.3s;
+    font-family: Cardo;
+    padding-top: 29px;
+    border-color: #006a6a;
+    border-width: 2px;
+    padding-left: 48px;
+    border-radius: 20px;
+    padding-right: 15px;
+    padding-bottom: 29px;
+    background-color: transparent;
+  }
