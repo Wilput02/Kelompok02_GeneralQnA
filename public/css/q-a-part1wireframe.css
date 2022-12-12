@@ -263,3 +263,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+.q-a-part1wireframe-container15 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+  }
