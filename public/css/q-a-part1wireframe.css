@@ -288,3 +288,7 @@
   padding-bottom: 20px;
   background-color: transparent;
 }
+
+.q-a-part1wireframe-textarea:focus {
+    box-shadow: 5px 5px 10px 0px #98d6f9;
+  }
