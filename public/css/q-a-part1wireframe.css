@@ -510,3 +510,13 @@
   width: auto;
   object-fit: cover;
 }
+
+.q-a-part1wireframe-container27 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    flex-direction: column;
+    justify-content: center;
+  }
