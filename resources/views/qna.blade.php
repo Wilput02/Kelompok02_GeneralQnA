@@ -129,5 +129,8 @@
                         class="q-a-part1wireframe-textarea input-context"
                       ></textarea>
                     </div>
+                    <div class="invalid-feedback context"></div>
+                  </div>
+                </div>
 </body>
 </html>
