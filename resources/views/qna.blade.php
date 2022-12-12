@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>{{ $title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
