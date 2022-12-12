@@ -104,5 +104,13 @@
                     </span>
                   </div>
                 </div>
+                <div class="q-a-part1wireframe-container11" data-aos="zoom-out" data-aos-delay="325">
+                  <img
+                    alt="image"
+                    src="./playground_assets/illustration%20-%20reading.svg"
+                    class="q-a-part1wireframe-image"
+                  />
+                </div>
+              </div>
 </body>
 </html>
