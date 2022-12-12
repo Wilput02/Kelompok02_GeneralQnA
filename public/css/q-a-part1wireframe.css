@@ -239,3 +239,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
+
+.q-a-part1wireframe-container14 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-bottom: 1.5%;
+    align-items: flex-start;
+  }
