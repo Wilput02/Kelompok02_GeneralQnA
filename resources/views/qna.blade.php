@@ -98,8 +98,9 @@
                   <div class="q-a-part1wireframe-container10">
                     <span class="q-a-part1wireframe-text13" data-aos="fade-up" data-aos-delay="325">
                       <span>
-                        Amet minim mollit non deserunt ullamco est sit aliqua
-                        dolor do amet sint. Velit officia
+                        Find answers to an article context, so you 
+                        can understand the intent of the delivery 
+                        in that context
                       </span>
                     </span>
                   </div>
@@ -173,8 +174,8 @@
               <div class="q-a-part1wireframe-container23">
                 <div class="q-a-part1wireframe-container24">
                   <span class="q-a-part1wireframe-text21" data-aos="fade-up" data-aos-delay="325">
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                    amet sint. Velit officia
+                    Here are the answers we were able to find 
+                    to the question based on the context and the statement you previously entered
                   </span>
                 </div>
               </div>
