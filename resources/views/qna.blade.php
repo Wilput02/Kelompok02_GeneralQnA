@@ -139,6 +139,15 @@
                         <span>Question</span>
                       </span>
                     </div>
+                    <div class="q-a-part1wireframe-container19">
+                      <input
+                        type="text"
+                        name = "question"
+                        id = "questionqina"
+                        placeholder="Enter your question"
+                        class="q-a-part1wireframe-textinput input-question"
+                      />
+                      
 
 </body>
 </html>
