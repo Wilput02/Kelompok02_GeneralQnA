@@ -162,10 +162,25 @@
 }
 
 .q-a-part1wireframe-container09 {
-    flex: 0 0 auto;
-    width: 478px;
-    height: auto;
-    display: flex;
-    align-self: flex-start;
-    align-items: flex-start;
-  }
+  flex: 0 0 auto;
+  width: 478px;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+}
+
+.q-a-part1wireframe-text08 {
+  color: rgba(0, 106, 106, 1);
+  width: 445px;
+  height: auto;
+  font-size: 86px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Oswald;
+  font-weight: 500;
+  line-height: 90px;
+  font-stretch: normal;
+  text-decoration: none;
+}
