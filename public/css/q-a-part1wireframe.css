@@ -265,8 +265,26 @@
 }
 
 .q-a-part1wireframe-container15 {
-    flex: 0 0 auto;
-    width: auto;
-    display: flex;
-    align-items: flex-start;
-  }
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+}
+
+.q-a-part1wireframe-textarea {
+  color: #292929;
+  width: 850px;
+  height: 320px;
+  font-size: 20px;
+  align-self: flex-end;
+  transition: 0.3s;
+  font-family: Cardo;
+  padding-top: 32px;
+  border-color: #006a6a;
+  border-width: 2px;
+  padding-left: 49px;
+  border-radius: 20px;
+  padding-right: 49px;
+  padding-bottom: 20px;
+  background-color: transparent;
+}
