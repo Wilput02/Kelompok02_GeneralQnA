@@ -543,3 +543,14 @@
     font-stretch: normal;
     text-decoration: none;
   }
+
+  .q-a-part1wireframe-container29 {
+    flex: 0 0 auto;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-self: flex-start;
+    margin-top: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
