@@ -86,5 +86,14 @@
             <div class="q-a-part1wireframe-container06">
               <div class="q-a-part1wireframe-container07">
                 <div class="q-a-part1wireframe-container08">
+                  <div class="q-a-part1wireframe-container09">
+                    <span class="q-a-part1wireframe-text08" data-aos="fade-up" data-aos-delay="300">
+                      <span>
+                        <span>Many Ask</span>
+                        <br />
+                        <span>A Lot Know</span>
+                      </span>
+                    </span>
+                  </div>
 </body>
 </html>
