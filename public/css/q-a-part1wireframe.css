@@ -512,11 +512,19 @@
 }
 
 .q-a-part1wireframe-container27 {
-    flex: 0 0 auto;
-    width: auto;
-    display: flex;
-    align-items: center;
-    margin-left: 30px;
-    flex-direction: column;
-    justify-content: center;
-  }
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.q-a-part1wireframe-container28 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+}
