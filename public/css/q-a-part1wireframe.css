@@ -497,3 +497,11 @@
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: flex-start;
 }
+
+.q-a-part1wireframe-container26 {
+    flex: 0 0 auto;
+    width: 200px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
