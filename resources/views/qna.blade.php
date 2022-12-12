@@ -206,5 +206,14 @@
             </div>
           </div>
         </div>
+        <div class="q-a-part1wireframe-footer">
+          <img
+            alt="uilcommentquestion1242"
+            src="./playground_assets/uilcommentquestion1242-qime.svg"
+            class="q-a-part1wireframe-uilcommentquestion1"
+          />
+        </div>
+      </div>
+    </div>
 </body>
 </html>
