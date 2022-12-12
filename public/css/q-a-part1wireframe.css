@@ -528,3 +528,18 @@
   display: flex;
   align-items: flex-start;
 }
+
+.q-a-part1wireframe-text22 {
+    color: rgba(0, 106, 106, 1);
+    width: 465px;
+    height: auto;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: justified;
+    font-family: Oswald;
+    font-weight: 400;
+    line-height: 37px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
