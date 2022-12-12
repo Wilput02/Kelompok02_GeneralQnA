@@ -366,3 +366,21 @@
 .q-a-part1wireframe-textinput:focus {
   box-shadow: 5px 5px 10px 0px #98d6f9;
 }
+
+.q-a-part1wireframe-button {
+    top: 23px;
+    right: 9px;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    position: absolute;
+    align-self: center;
+    transition: 0.3s;
+    align-items: center;
+    border-width: 0px;
+    border-radius: 20px;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #006a6a;
+  }
