@@ -207,3 +207,12 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
+.q-a-part1wireframe-container11 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
