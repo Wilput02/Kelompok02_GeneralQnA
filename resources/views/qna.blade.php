@@ -112,5 +112,9 @@
                   />
                 </div>
               </div>
+              <form class="form-qna" enctype="multipart/form-data">
+                @csrf
+                <div class="q-a-part1wireframe-container12">
+                  <div class="q-a-part1wireframe-container13" data-aos="fade-up" data-aos-delay="325">
 </body>
 </html>
