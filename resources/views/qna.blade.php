@@ -74,5 +74,13 @@
               class="q-a-part1wireframe-uilcommentquestion"
             />
           </div>
+          <div class="q-a-part1wireframe-container04" data-aos="zoom-in" data-aos-delay="200">
+            <span class="q-a-part1wireframe-text04"><span>Help</span></span>
+          </div>
+          <div class="q-a-part1wireframe-container05" data-aos="zoom-in" data-aos-delay="200">
+            <span class="q-a-part1wireframe-text06"><span>About</span></span>
+          </div>
+        </div>
+        <div id="test">
 </body>
 </html>
