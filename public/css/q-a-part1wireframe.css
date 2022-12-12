@@ -290,5 +290,14 @@
 }
 
 .q-a-part1wireframe-textarea:focus {
-    box-shadow: 5px 5px 10px 0px #98d6f9;
-  }
+  box-shadow: 5px 5px 10px 0px #98d6f9;
+}
+
+.q-a-part1wireframe-container16 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
