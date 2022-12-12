@@ -147,7 +147,14 @@
                         placeholder="Enter your question"
                         class="q-a-part1wireframe-textinput input-question"
                       />
-                      
+                      <button type="submit" class="q-a-part1wireframe-button button" id="btnSubmit">
+                        <img
+                          alt="materialsymbolssearchrounded2044"
+                          src="./playground_assets/materialsymbolssearchrounded2044-zckc.svg"
+                          class="q-a-part1wireframe-materialsymbolssearchrounded"
+                        />
+                      </button>
+                    </div>
 
 </body>
 </html>
