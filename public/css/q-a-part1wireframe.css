@@ -241,10 +241,25 @@
 }
 
 .q-a-part1wireframe-container14 {
-    flex: 0 0 auto;
-    width: 100%;
-    height: auto;
-    display: flex;
-    margin-bottom: 1.5%;
-    align-items: flex-start;
-  }
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-bottom: 1.5%;
+  align-items: flex-start;
+}
+
+.q-a-part1wireframe-text15 {
+  color: rgba(0, 106, 106, 1);
+  width: 94px;
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: justified;
+  font-family: Cardo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
