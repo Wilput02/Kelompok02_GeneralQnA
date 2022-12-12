@@ -101,9 +101,23 @@
 }
 
 .q-a-part1wireframe-container05 {
-    flex: 0 0 auto;
-    width: 200px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-  }
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.q-a-part1wireframe-text06 {
+  color: rgba(75, 68, 83, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: ExtraLight;
+  text-align: justified;
+  font-family: Oswald;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
