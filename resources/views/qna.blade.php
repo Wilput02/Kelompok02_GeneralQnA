@@ -179,5 +179,13 @@
                 </div>
               </div>
               <div class="q-a-part1wireframe-container25" data-aos="fade-up" data-aos-delay="325">
+                <div class="q-a-part1wireframe-container26">
+                  <img
+                    alt="image"
+                    src="./playground_assets/illustration%20-%20reading%20side.svg"
+                    class="q-a-part1wireframe-image1"
+                  />
+                </div>
+                <div class="q-a-part1wireframe-container27">
 </body>
 </html>
