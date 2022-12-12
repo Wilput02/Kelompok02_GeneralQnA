@@ -186,9 +186,24 @@
 }
 
 .q-a-part1wireframe-container10 {
-    flex: 0 0 auto;
-    width: 459px;
-    height: 100px;
-    display: flex;
-    align-items: flex-start;
-  }
+  flex: 0 0 auto;
+  width: 459px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.q-a-part1wireframe-text13 {
+  color: rgba(75, 68, 83, 1);
+  width: auto;
+  height: auto;
+  font-size: 24px;
+  align-self: center;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Cardo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
