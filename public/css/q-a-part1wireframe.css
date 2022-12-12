@@ -368,19 +368,25 @@
 }
 
 .q-a-part1wireframe-button {
-    top: 23px;
-    right: 9px;
-    width: 70px;
-    height: 70px;
-    margin: auto;
-    display: flex;
-    position: absolute;
-    align-self: center;
-    transition: 0.3s;
-    align-items: center;
-    border-width: 0px;
-    border-radius: 20px;
-    flex-direction: row;
-    justify-content: center;
-    background-color: #006a6a;
-  }
+  top: 23px;
+  right: 9px;
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  border-width: 0px;
+  border-radius: 20px;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #006a6a;
+}
+
+.q-a-part1wireframe-button:hover {
+  border-color: #006a6a;
+  border-width: 10px;
+  background-color: #014848;
+}
