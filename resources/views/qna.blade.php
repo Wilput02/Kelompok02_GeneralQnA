@@ -57,5 +57,12 @@
       easing: 'ease-out',
     });
   </script>  
+  <div>
+      <link href="./css/q-a-part1wireframe.css" rel="stylesheet" />
+      <div class="q-a-part1wireframe-container">
+        <div class="q-a-part1wireframe-header">
+          <div class="q-a-part1wireframe-container01" data-aos="zoom-in" data-aos-delay="200">
+            <span class="q-a-part1wireframe-text"><span>Home</span></span>
+          </div>
 </body>
 </html>
