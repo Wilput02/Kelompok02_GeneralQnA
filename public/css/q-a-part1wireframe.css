@@ -160,3 +160,12 @@
   flex-direction: column;
   justify-content: center;
 }
+
+.q-a-part1wireframe-container09 {
+    flex: 0 0 auto;
+    width: 478px;
+    height: auto;
+    display: flex;
+    align-self: flex-start;
+    align-items: flex-start;
+  }
