@@ -429,10 +429,25 @@
 }
 
 .q-a-part1wireframe-container22 {
-    flex: 0 0 auto;
-    width: auto;
-    height: 100%;
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-  }
+  flex: 0 0 auto;
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.q-a-part1wireframe-text19 {
+  color: rgba(0, 106, 106, 1);
+  width: 100%;
+  height: auto;
+  font-size: 86px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Oswald;
+  font-weight: 500;
+  line-height: 90px;
+  font-stretch: normal;
+  text-decoration: none;
+}
