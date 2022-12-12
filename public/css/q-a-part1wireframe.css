@@ -427,3 +427,12 @@
   align-self: flex-start;
   align-items: flex-start;
 }
+
+.q-a-part1wireframe-container22 {
+    flex: 0 0 auto;
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
