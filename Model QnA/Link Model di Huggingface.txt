@@ -1,0 +1,3 @@
+Pakai link ini jika ingin menggunakan Model dari HuggingFace
+
+BagusDP/distilbert-base-uncased-finetuned-squad
