@@ -175,7 +175,7 @@
                 <div class="q-a-part1wireframe-container24">
                   <span class="q-a-part1wireframe-text21" data-aos="fade-up" data-aos-delay="325">
                     Here are the answers we were able to find 
-                    to the question based on the context and the statement you previously entered
+                    from the question based on the context and the statement you previously entered
                   </span>
                 </div>
               </div>
