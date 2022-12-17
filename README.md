@@ -17,4 +17,8 @@
 
     
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
-1.  
+1.  Pengguna membuka link yang telah disediakan, yaitu Qina.000webhost.com
+2.  Setelah pengguna mengakses link yang disediakan, pengguna dapat melihat tampilan web yang berisi _question_, _context_, dan _answer_.
+3.  Pengguna dapat mengisi pertanyaan pada kolom _question_ dan konteks kalimat / paragraf pada kolom _context_.
+4.  Setelah itu, pengguna menekan tombol _answer_ dan menunggu sistem untuk menghasilkan jawaban.
+5.  Jawaban yang dihasilkan merupakan jawaban yang didapatkan dari konteks yang diinput sebelumnya, yang berhubungan dengan pertanyaan.
