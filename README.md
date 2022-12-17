@@ -19,9 +19,9 @@
 1.  Dataset yang digunakan adalah data Squad yang bersumber dari Huggingface. Data tersebut memiliki 5 _field_ atau kelas yang terdiri dari id, title, context, question, dan answers. Dataset dibagi menjadi 2, yaitu data untuk train dan data untuk validation. Data train berjumlah 87.599, sedangkan data validation berjumlah 10.570.
 2.  Algoritma Machine Learning yang digunakan untuk pembuatan _question answering_ adalah DistilBERT. DistilBERT adalah _language_ model yang berupa hasil distilasi dari model BERT. DistilBERT memiliki parameter 40% lebih sedikit daripada model BERT, kecepatan 60% lebih cepat, serta memiliki 95% kinerja dari model BERT.
 3.  Tahapan _preprocessing_ pada model ini adalah dengan menggunakan AutoTokenizer dari _library_ Transformer yang berasal dari Huggingface.
-4.  Fine-Tuning merupakan tahapan _training model_, di mana dilakukan pelatihan pada dataset yang ada. Fine-Tuning biasanya digunakan untuk melatih suatu _pre-trained language_ model yang memiliki dataset yang banyak. 
+4.  Fine-Tuning merupakan tahapan _training model_, di mana dilakukan pelatihan pada dataset yang ada. Fine-Tuning biasanya digunakan untuk melatih suatu _pre-trained language_ model yang memiliki dataset yang banyak.
+5.  wgwgegwg
 <img width="174" alt="image" src="https://user-images.githubusercontent.com/94756544/208237512-9bf30a82-a87c-4b03-81d3-5e65c196ea2b.png">
-5.  efeaf
 
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
