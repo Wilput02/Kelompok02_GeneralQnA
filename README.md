@@ -9,7 +9,7 @@
 
                                                             LAPORAN PROJECT UAS NLP
                                                               QUESTION ANSWERING
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    Aplikasi Qina qna merupakan aplikasi yang berbasis question answering secara website yang bersifat umum. Aplikasi ini dapat digunakan apabila terdapat seseorang yang ingin mengetahui sesuatu dengan memberi pertanyaan pada aplikasi Qina. Aplikasi ini dibuat dengan menggunakan Laravel dan _language_ model yang dibuat dengan bahasa Python.
 
