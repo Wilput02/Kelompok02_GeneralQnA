@@ -15,8 +15,10 @@
 
    Arsitektur program ini terbagi menjadi 3 bagian yakni, bagian Frontend, Backend, serta Model. Pada bagian Frontend menggunakan 3 bahasa pemrograman yakni, HTML, CSS, dan JQuery, di mana pada HTML menjadi kerangka utama dalam pembuatan tampilan website yang dapat menerima masukkan pengguna berupa pertanyaan dan konteksnya. Pada bagian HTML setiap komponen akan diberikan class ataupun ID sesuai dengan fungsinya masing-masing, keduanya akan diatur kembali dengan CSS sehingga website dapat ditampilkan lebih menarik dan interaktif dan CSS akan mengirimkan hasil pengaturan tampilan pada HTML. Pada HTML masukkan pengguna akan dikirimkan dan disimpan melalui JQuery dan JQuery mengirimkannya melalui AJAX yang nantinya akan dilakukan validasi oleh PHP. Hasil validasi dikirimkan melalui response JSON, sehingga AJAX dapat mengirimkan pesan error apabila terjadi kesalahan dalam masukkan pengguna, namun apabila masukkan pengguna benar maka AJAX akan mengirimkan masukkan tersebut dengan model dan jawaban dari model akan diterima kembali oleh AJAX dan dikirimkan melalui JQuery untuk disimpan dalam variabel jawaban yang dapat ditampilkan dalam halaman HTML.
 
+
   Berikut penjelasan mengenai model yang digunakan dalalm projek aplikasi qina qna.
 1.  Dataset yang digunakan adalah data Squad yang diambil dari Huggingface. Data tersebut memiliki 5 _field_ yang terdiri dari id, title, context, question, dan answers. Dataset dibagi menjadi 2, yaitu data untuk train dan data untuk validation. Data train berjumlah 87.599, sedangkan data validation berjumlah 10.570.
+  
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
 1.  Pengguna membuka link yang telah disediakan, yaitu qina.000webhost.com
