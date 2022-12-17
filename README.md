@@ -1,14 +1,14 @@
-                                                                 KELOMPOK 2
+                                                                  KELOMPOK 2
 
-                                                              ANGGOTA KELOMPOK :
-                                             - Bagus Dwi Prayogo                 (2005551034)
-                                             - Willy Putra                       (2005551045)
-                                             - Herry Daniel Prasetya Liukae      (2005551052)
-                                             - I Gede Carlo Kresnandaka Agastya  (2005551053)
+                                                               ANGGOTA KELOMPOK :
+                                              - Bagus Dwi Prayogo                 (2005551034)
+                                              - Willy Putra                       (2005551045)
+                                              - Herry Daniel Prasetya Liukae      (2005551052)
+                                              - I Gede Carlo Kresnandaka Agastya  (2005551053)
 
 
-                                                           LAPORAN PROJECT UAS NLP
-                                                             QUESTION ANSWERING
+                                                            LAPORAN PROJECT UAS NLP
+                                                              QUESTION ANSWERING
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    Aplikasi qina qna merupakan aplikasi yang berbasis question answering secara website yang bersifat umum. Aplikasi ini dapat digunakan apabila terdapat seseorang yang ingin mengetahui sesuatu dengan memberi pertanyaan pada aplikasi qina. Aplikasi ini menggunakan Laravel.
