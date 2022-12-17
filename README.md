@@ -20,7 +20,7 @@
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
 1.  Pengguna membuka link yang telah disediakan, yaitu qina.000webhost.com
-![gambar web qna](https://user-images.githubusercontent.com/94756544/208234669-4bf19844-7ee0-43a4-9add-0c0a0b32c0f3.jpeg =200x400)
+![gambar web qna](https://user-images.githubusercontent.com/94756544/208234669-4bf19844-7ee0-43a4-9add-0c0a0b32c0f3.jpeg | width=100)
 2.  Setelah pengguna mengakses link yang disediakan, pengguna dapat melihat tampilan web yang berisi _question_, _context_, dan _answer_.
 3.  Pengguna dapat mengisi pertanyaan pada kolom _question_ dan konteks kalimat / paragraf pada kolom _context_.
 4.  Setelah itu, pengguna menekan tombol _answer_ dan menunggu sistem untuk menghasilkan jawaban.
