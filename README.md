@@ -24,4 +24,4 @@
 3.  Pengguna dapat mengisi pertanyaan pada kolom _question_ dan konteks kalimat / paragraf pada kolom _context_.
 4.  Setelah itu, pengguna menekan tombol dengan simbol _search_ yang ada di sebelah kolom _question_ dan menunggu jawaban yang sedang diproses oleh sistem.
 5.  Jawaban yang dihasilkan merupakan jawaban yang didapatkan dari konteks yang diinput sebelumnya, yang berhubungan dengan pertanyaan.
-<img src="https://user-images.githubusercontent.com/94756544/208234669-4bf19844-7ee0-43a4-9add-0c0a0b32c0f3.jpeg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/94756544/208234669-4bf19844-7ee0-43a4-9add-0c0a0b32c0f3.jpeg" width="250" height="450" />
