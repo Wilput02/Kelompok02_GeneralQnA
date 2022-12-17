@@ -21,7 +21,7 @@
 3.  Tahapan _preprocessing_ pada model ini adalah dengan menggunakan AutoTokenizer dari _library_ Transformer yang berasal dari Huggingface.
 4.  Fine-Tuning merupakan tahapan _training model_, di mana dilakukan pelatihan pada dataset yang ada. Fine-Tuning biasanya digunakan untuk melatih suatu _pre-trained language_ model yang memiliki dataset yang banyak.
 5.  wgwgegwg
-<img width="174" alt="image" src="https://user-images.githubusercontent.com/94756544/208237512-9bf30a82-a87c-4b03-81d3-5e65c196ea2b.png">
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/94756544/208237512-9bf30a82-a87c-4b03-81d3-5e65c196ea2b.png">
 
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
