@@ -19,7 +19,8 @@
 1.  Dataset yang digunakan adalah data Squad yang diambil dari Huggingface. Data tersebut memiliki 5 _field_ yang terdiri dari id, title, context, question, dan answers. Dataset dibagi menjadi 2, yaitu data untuk train dan data untuk validation. Data train berjumlah 87.599, sedangkan data validation berjumlah 10.570.
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
-1.  Pengguna membuka link yang telah disediakan, yaitu Qina.000webhost.com
+1.  Pengguna membuka link yang telah disediakan, yaitu qina.000webhost.com
+![gambar web qna](https://user-images.githubusercontent.com/94756544/208234669-4bf19844-7ee0-43a4-9add-0c0a0b32c0f3.jpeg)
 2.  Setelah pengguna mengakses link yang disediakan, pengguna dapat melihat tampilan web yang berisi _question_, _context_, dan _answer_.
 3.  Pengguna dapat mengisi pertanyaan pada kolom _question_ dan konteks kalimat / paragraf pada kolom _context_.
 4.  Setelah itu, pengguna menekan tombol _answer_ dan menunggu sistem untuk menghasilkan jawaban.
