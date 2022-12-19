@@ -29,7 +29,7 @@ https://huggingface.co/BagusDP/distilbert-base-uncased-finetuned-squad
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/94756544/208237512-9bf30a82-a87c-4b03-81d3-5e65c196ea2b.png"> <img width="321" alt="image" src="https://user-images.githubusercontent.com/94756544/208237744-f23adf9e-e42a-42e5-a98e-e9745951336a.png">
   
   Cara menjalankan aplikasi adalah dengan beberapa tahap, yaitu:
-1.  Pengguna membuka link yang telah disediakan, yaitu qina.000webhost.com
+1.  Pengguna membuka link yang telah disediakan, yaitu https://qina.000webhostapp.com/
 2.  Setelah pengguna mengakses link yang disediakan, pengguna dapat melihat tampilan web yang berisi _question_, _context_, dan _answer_.
 3.  Pengguna dapat mengisi pertanyaan pada kolom _question_ dan konteks kalimat / paragraf pada kolom _context_.
 4.  Setelah itu, pengguna menekan tombol dengan simbol _search_ yang ada di sebelah kolom _question_ dan menunggu jawaban yang sedang diproses oleh sistem.
